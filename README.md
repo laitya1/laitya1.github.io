@@ -1,3 +1,3 @@
-# laitya.github.io
+# laitya1.github.io
 
 My Personal Blog via GitHub

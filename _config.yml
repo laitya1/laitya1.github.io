@@ -1,8 +1,7 @@
 name: "laitya's blog"
 description: "laitya的个人技术博客"
 
-avatar: https://laitya.github.io/images/avatar.jpg
-favicon: https://laitya.github.io/images/favicon.ico
+avatar: https://laitya.github.io/images/avatar.png
 
 navigation:
   - name: 首页

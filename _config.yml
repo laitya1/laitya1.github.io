@@ -1,7 +1,7 @@
-name: "laitya's blog"
-description: "laitya的个人技术博客"
+name: "laitya1's blog"
+description: "laitya1的个人技术博客"
 
-avatar: https://laitya.github.io/images/avatar.png
+avatar: https://laitya1.github.io/images/avatar.png
 
 navigation:
   - name: 首页
@@ -24,9 +24,9 @@ footer-links:
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2025 laitya1
 
-url: https://laitya.github.io
+url: https://laitya1.github.io
 
 permalink: /:title/
 paginate_path: /page:num/

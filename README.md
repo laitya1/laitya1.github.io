@@ -1,3 +1,3 @@
-# pianfan.github.io
+# laitya.github.io
 
 My Personal Blog via GitHub

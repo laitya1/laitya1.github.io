@@ -1,4 +1,10 @@
-# solar 5月公益月赛
+---
+layout: post
+title: "solar 5月公益月赛"
+date:   2025-6-1
+comments: true
+author: laitya1
+---
 
 ## 题目1：攻击者使用什么漏洞获取了服务器的配置文件？
 
